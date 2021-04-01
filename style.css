@@ -1,8 +1,39 @@
+body {
+  background-color: #e2e0dc;
+}
+.header {
+  text-align: center;
+  background-color: #0083A3;
+  height: 100px;
+  align-items: center;
+  padding-top: 30px;
+}
 .tropical {
   float: left;
   width: 50%;
 }
+h1.tropical {
+  color: #092127;
+  float: left;
+}
 .popular {
   float: right;
   width: 50%;
+}
+h1.popular {
+  color: #0b5d72;
+  float: left;
+}
+ol {
+  padding-top: 50px;
+}
+ol.tropical {
+  color: #1b3035;
+  float: left;
+  width: 80%;
+}
+ol.popular {
+  color: #0d5b6e;
+  float: left;
+  width: 80%;
 }
