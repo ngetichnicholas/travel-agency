@@ -7,6 +7,10 @@ body {
   height: 100px;
   align-items: center;
   padding-top: 30px;
+  width: 100%;
+}
+#container {
+  width: 100%;
 }
 .tropical {
   float: left;
